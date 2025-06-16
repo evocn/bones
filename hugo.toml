@@ -1,5 +1,5 @@
-baseURL = 'http://alexhartford.org/lambda'
+baseURL = 'http://alexhartford.org/bones'
 languageCode = 'en-us'
-title = "Lambda"
+title = "Bones"
 disableKinds = ['taxonomy', 'term', 'section']
 publishDir = 'docs'

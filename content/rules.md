@@ -1,198 +1,153 @@
 ---
-title: "Rules"
+title: Rules
 ---
+***The Core Mechanic*** - This is a 2D6-based game.
+> ***DCs:*** Easy: **7** | Moderate: **9** | Hard: **11**
 
-# Rubicon
-## [Basics](#basics) | [Heroes](#heroes) | [Combat](#combat) | [Equipment](#equipment)
-
-The Rules System for ***Lambda***.
-
----
-
-# Priorities
-Rubicon is a system which is...
-> ***Honest.***
-Specialized heroes. Glaring weaknesses. Dump stats matter.
-Progression is specific. It is earned, not expected.
-Character death is possible, and in many circumstances probable.
-
-> ***Rules-light.***
-Tight, simple core mechanic.
-Keep dice-rolling to a minimum.
-Rulings, not rules.
-Small numbers with big consequences.
-Simple, to allow for endless customization as a game progresses.
-
-> ***Focused on character specialization.***
-Heroes play a specific role.
-Party relationships and synergy matter.
-Heroes have glaring weaknesses, which they must bolster somehow.
-Combat focused on limited resources, Risk-taking, and craftiness.
-
-The game aims at a ***Heroic, Low-Fantasy*** setting.
-Fighters wield swords, axes, and longbows, and wear armor into battle.
-Magic, a relic of the past, still exists in the artifacts of old and the rare individual touched by a special gift.
-Death is close to permanent.
-Transportation of goods and adventurers is difficult.
-Equipment is valuable, even the plain sword which your character wields.
+I tend to resolve most things without dice when characters are proficient at something, have a significant advantage or good plan, or when they are not under any particular pressure.
+Sometimes rolls can have partial success or consequences. I'll always tell you in advance what a roll entails.
 
 ---
+***Attributes*** - There are 5 attributes which govern characters, which typically range from -3 to +3.
+- ***Agility*** - Dodging, sneaking, leaping.
+- ***Strength*** - Pushing, pulling, climbing, wrestling, melee weapons.
+- ***Clarity*** - Perception, ranged weapons, detection of details.
+- ***Knowledge*** - Lore, survival, mending of injuries, use of technology, conversational ability.
+- ***Grit*** - Ability to withstand pain and stay alive when injured.
 
-# Basics
-The game is adjudicated using the ***d20***.
-
-All modifiers to checks are based on ***Negotiation***. A player makes their case to the Dungeon Master which modifiers should be added to a particular check.
-
-***Advantage*** and ***Disadvantage*** are used as a basic way to augment checks based on circumstances.
-
-Heroes can move up to their ***Speed*** on their turn.
-
-***Health*** govern a hero's life force and their ability to go on.
-
-***Skill*** govern a hero's ability to perform superhuman feats.
-
-***Armor*** governs how difficult it is to land a solid blow.
-
-***Attributes*** are plain numbers governing a hero's ability to do things.
-A hero can have a score from -10 to 10 in any attribute.
-There are 6 attributes: ***Strength***, ***Dexterity***, ***Constitution***, ***Intelligence***, ***Wisdom***, and ***Charisma***.
-
-An ***Archetype*** is a specialization of a character's role. Each player character has one archetype.
+> New characters distribute **[+2, +1, 0, -1, -2]** in these five scores.
 
 ---
+***Talent*** - A character's learned or innate capacity to perform some task. It can be anything, as long as it's specific, like *climbing* or *repairing things* or *seduction* or *long bow*.
 
+A talented character often doesn't need to roll checks.
+When they do, talents allow you to **reroll 1's** from your initial roll.
+
+---
+***Ability*** - Something unique that only your character can do. You pick one when you make your character. In epic-length games (2-3 sessions), a character might learn additional Abilities, too, but usually you just have one.
+
+There's a bunch listed in [Options](options.md), but you can make up your own too.
+
+---
 # Combat
-Combat begins when two parties would try to adjudicate against eachother.
-
-![combat](/lambda/images/combat.jpg)
-
-The game has no concept of rolling ***Initiative***.
-Who goes first is determined by the circumstance. Usually the heroes act first.
-Heroes act in order around the table. They may seat themselves accordingly at the start of each turn. This process must not require DM intervention.
-
-***On Your Turn***, a hero can move and act, in any order.
-A hero can use Quick Actions at any time during their turn, or in response to events which apply to that action.
-
-## Actions
-A hero ***Attacking*** makes a roll against the victim's armor class, adding their weapon's governing modifier to the roll.
-On a hit, they roll a damage die based on the weapon.
-
-A hero can forgo their actions on a turn to try to ***Dodge*** incoming attacks, imposing disadvantage on them.
-
-A hero can try to ***Shove*** an enemy, making an attack roll with their Strength attribute. On a hit, they push their target up to 5 feet.
-
-A hero can move up to their speedE as an action on their turn.
-
-A hero can try to ***Grapple*** with an enemy, holding them in place. To do so, they
-must have a free hand. They roll an attack roll against an enemy using their
-Strength attribute, and on a hit, they have grappled the enemy.
-The enemy cannot move, and tries to escape at the end of their turn.
-
-## Other things that might happen
-***Difficult Terrain*** costs twice as much movement to cover.
-
-Some circumstances involve ***Quick Actions***. There are no restrictions on Quick Actions, and a hero can take as many in a row as is necessary or applicable.
-
-You can ***Stow***, ***Equip***, or ***Use*** an item as a quick action on your turn once. More than one item in a turn requires an action.
-
-A hero who rolls a natural 20 to hit with an attack deals a ***Critical Hit!*** They deal the maximum possible damage on the attack, given all modifiers.
-
-A ***Zone*** is just a circular area centered around a point with a radius of 15 feet. It's a simple way to refer to areas in-game.
-
-A creature in ***Cover*** cannot be targeted by a ranged attack.
-
-All attacks against a creature who is ***Prone*** have advantage. A creature must spend half their speed to get up from being prone.
-
-This game has no concept of "Flanking", "Opportunity Attacks", "Partial Cover", or "Hiding" in combat.
-These sorts of things either don't exist in the game, or are adjudicated given specific scenarios.
+***Turns*** - Combat happens in rounds. There isn't initiative, we just go around the table in order, then the enemies go.
+Each round, you can move and do an **Action**.
 
 ---
-
-# Heroes
-Hero archetypes are outlined on [this page](/lambda/archetypes).
-
-![sage](/lambda/images/sage.jpg)
-
-## Progression
-Progression usually comes in the form of items, artifacts, and blessings.
-
-Often, it will be clear to a hero how they may progress, whether it be through the acquisition of a storied weapon,
-their God's blessing, the study of ancient texts in battle tactics, or the acquisition of wealth through subterranean expedition.
-
-The Dungeon Master will provide a clear indication of what is required for a hero to progress.
-
-Here are some examples of progression in this system, as it is a confusing concept at first.
-* A Fighter saves their coins until they can purchase a suit of Chain Mail, cementing their ability to defend their friends.
-* A Magi seeks the ruined temple to their deity. With the help of their friends, they successfully make the pilgrimage, for which their God rewards them with a new power.
-* A Wizard finds a dusty tome in the basement of an old northern keep, where once the spells of darkness were practiced. They have the option before them to study dark magic.
-* A Thief successfully infiltrates a refined party, pushing their limits and learning some new tricks in the process.
-* A Leader guides his party through a series of military conflicts, hardening their skills in the process. They gain a new ability after some much-needed rest.
-
-## Death
-A hero reduced below 1 Health is incapacitated.
-
-They may be stabilized by another hero who takes their action to do so.
-
-If not stabilized within 1 minute, they die.
-
-A hero who is stabilized does not return to battle, and regains consciousness after an hour.
-
-## Injury
-If stabilized, a hero returns to 1 Health, but must roll on the injury table.
-Additionally, all injuries come with some mental or physical mark for a hero to carry with them the rest of their days.
-
-| (d4)| Effect |
-|:---:|:------:|
-| 1-2 | Lose 1d4 of a random Attribute. |
-| 3   | Lose 4 Maximum Health. |
-| 4   | All checks have disadvantage for one week. |
-
-## Recovery
-In order to regain spent Health and Skill, as well as heal particular status ailments, heroes must rest.
-In order to rest, the party must have adequate food and water.
-
-For each night of rest in a comfortable place,  a hero regains half their Health and Skill.
-
-For each night of rest while camping somewhere, a hero regains a quarter of their Health and Skill.
-
-For each night of uncomfortable rest, such as sleeping outside in the rain, a hero regains 2 Health and 1 Skill.
+***To Hit*** - Roll **2D6**. Add **Strength** to melee weapons, Add **Clarity** to ranged weapons.
+You need to beat the target's **Avoid**, which is [7 + **Agility**].
 
 ---
+***Wounds*** - In this game, weapons cause Wounds.
 
+Roll damage for your weapon, subtract the target's **Armor** and convert that number below.
+
+> 0-3: **Just grazed you. No wounds.** | 4-7: **1 Wound**. | 8+: **2 Wounds**.
+
+If a character takes more Wounds than they can bear, which is [2 + **Grit**], they pass out.
+An unconscious character who takes another Wound dies.
+
+Here's a list of some example wounds.
+- **Broken Arm.** -2 Strength. -1 Hand.
+- **Broken Leg**. -2 Agility. Half speed.
+- **Brain Damage**. -2 to Knowledge, Clarity.
+- **Deep Gash**. No immediate effects, but if left untreated for an hour, you will die.
+
+That's just a few, though. I've got my own chart I roll on to determine wounds most of the time.
+
+---
+***Critical*** - On a weapon's maximum damage output, you score a critical! You roll damage again, which can also critical indefinitely.
+
+---
+***Rest*** - Characters who have time to rest in the game can attempt to mend or mitigate their Wounds.
+
+If you have a week of rest or travel, you can mend up to one wound per week.
+
+If you're under duress or trying to mend a wound in a short timeframe (like overnight), any character in the group can roll a DC 10 Knowledge check to mend wounds. They only roll once per wound per rest, and if they fail, the wound remains.
+
+---
+***Grappling*** - You can attempt to grapple with an opponent by making a Strength check against their avoid. If you succeed, you and your opponent are locked together in a grappling match.
+
+On their turn, a grappler can choose from the following options:
+- Attack the enemy with an unarmed strike or a knife.
+- Move the enemy up to five feet.
+- Escape from the grapple, by rolling against the enemy's Strength + 7.
+- Tighten their hold. Impose a -2 penalty on the enemy's escape.
+- Maneuver the enemy into an advantageous position. Impose a -2 penalty to the enemy's Avoid.
+- Maneuver the enemy to protect your own body. 
+
+Grapplers are free to drop or equip items while grappling.
+
+---
+Any action which isn't an attack is a **Maneuver**.
+
+Here's a list of basic maneuvers anyone can use.
+- **Dodge** | Give yourself +2 Agility and +2 Armor till next turn.
+- **Defend** | Take all attacks targeting a nearby ally.
+- **Disarm** | With an open hand, you can attempt to disarm an opponent. You roll a Strength check against your opponent's Avoid. If you succeed, you disarm your opponent of one weapon they carry.
+- **Dash** | Move again.
+- **Shove** | You make an unarmed attack against an enemy's Avoid to try to push them up to 5 feet.
+
+**Abilities** can introduce maneuvers that only specific characters can use.
+
+---
 # Equipment
-The equipment of the game is outlined on [this page](/lambda/equipment/).
+This game focuses a lot on keeping the stuff you carry and wear grounded in a dramatic way.
 
-Trade in this setting typically involves the various forms of ***Currency***.
+---
+You can **Carry** equipment in your **Hands**.
+For most two-handed people, that means you can carry two small things or one large thing.
 
-In the Four Kingdoms, the standard coin is the Golden Mark.
+---
+You can **Attach** up to 2 Hands worth of things to your body with a scabbard or belt loops.
+Each item you attach to yourself in this way gives you a -1 Agility penalty.
 
-The most common coin in the Grey Wastes is the Silver Dirham. Also traded is the more valuable Golden Dinar.
-The Dinar is a smaller coin than the Dirham, but is heavier.
+---
+***Pack*** - You can use one if you want. It carries 4 Hands worth of gear.
 
-As a reference point, most people will trade 10:1 between Silver Dirham and Golden Dinar.
-Between the Four Kingdoms and the Grey Wastes, the Golden Mark usually trades one-to-one for the Dinar, but not all merchants will accept this.
-The two coins have nearly the same weight, however.
+While you're carrying it:
+- Move at half speed.
+- Have -2 Agility.
+- Have -2 Strength when climbing or pulling your weight.
 
-These coins are forged in the great cities, and circulate through many realms.
-There are various other forms of coin, which have regional popularity, and will only be traded by certain folk.
+It takes a full action to take off or put on a pack, or to retrieve an item from it.
 
-Any listed price of an item in this reference is for a common form of the item in a populated area.
-Note that buying used weaponry can be cheaper, but weapons purchased secondhand can be unreliable, and might need honing at a smithy.
-Note also that these prices are typical in populated areas, but in small hovels, a weapon may be considered far more or less valuable, depending on if the seller knows the item's worth.
+---
+***Trinket*** - A small item you could keep in your pocket or tied around your neck.
+Everyone can carry one trinket for free.
 
-All equipment ***Encumbers*** a hero. The amount of Load a hero can carry is governed by their Strength.
-A hero who is overencumbered cannot fight, and their Speed is halved, especially when travelling long distances.
-A party might hire pack animals to carry a heavy load, or travel lighter than they might otherwise.
+---
+***Beasts of Burden*** - Animals and carts can carry items, too! It's hard to get a Donkey into a Dungeon, though... (that is, of course, what D&D stands for, though, so you should try anyways.)
 
-Most equipment is simple to calculate. One-handed items cost 1 Load. Two-handed cost 2.
-50 Coins equals 1 Load, and precise things, like potions, cost 1 Load as well.
-Other items are either outlined in these docs, or adjudicated on the fly.
+---
+***Sunder*** - Rolling snake eyes when you roll to hit with a weapon causes it to break in your hands!
 
-***Pack Animals*** like
-horses and mules can carry equipment long distances - either to bring tools to a dungeon, or to bring loot back home.
+A skilled fighter can willingly sunder their equipment to avoid taking a wound against an opponent's attack if it was determined to be a hit. Note they make the decision *before* damage is rolled and wounds are calculated!
 
-Weapons and armor which are damaged cannot be used, and must be ***Repaired*** by a professional with tools.
+---
+# Fate
+In stories and in life, fate smiles upon the brave and the bold. This game is no different.
 
-A character skilled in ***Foraging*** can make a check to find food and water once per day.
+A **Fate** point may be used to reroll any roll, anywhere on the table.
+
+---
+When you make your character, you get one Fate point automatically.
+
+You can choose to give your character -1 to one of your positive attributes in exchange for fate points.
+This might make sense for your character - if you're playing a teenager or some drunk, for instance.
+
+---
+***Death and Elimination*** - Characters who, through play, die, cannot continue, or leave the path of the story, are left behind, either to continue their story another time, or to fall, as so many do, into the dust of memory. This will likely be a common occurrence, so here's how we'll handle things.
+
+If it's a short game (1 session), and a character leaves, that's it! (Though they can still influence the game, see **Legacy** below.)
+
+If we're telling a longer story and a character dies, then we'll introduce a new character for the widowed player to play starting the following session.
+
+---
+***Legacy*** - When a player doesn't have an active character during a session, they can still use their **Fate** points to help an active character. In fact, when your character leaves the story, they gain one extra Fate point to use!
+
+In addition to the above options for Fate, you can also allow an active character to act using your character's attributes and talents for a turn.
+
+Imagine a priest's warrior friend is slain in front of them, and they pick up their sword, imbued with their friend's spirit, to avenge them! That's what a legacy is about.
 
 ---

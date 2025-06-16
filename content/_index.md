@@ -2,16 +2,10 @@
 title: "Index"
 ---
 
-# *Lambda*, an RPG Campaign
-***Alex Hartford*** | ***Winter 2024***
+# *Bones*
+***Alex Hartford*** | ***Winter 2025***
 
-If I sent you this, you'll want to read the [Proposal](/lambda/proposal/).
+[Core Rules](/bones/rules/)
+[Character Options](/bones/options/)
 
-You'll also probably want to read the first few paragraphs of the [Setting](/lambda/setting/).
-
-And for all the nitty gritty, here's the [Core Rules](/lambda/rules/).
-There are also rules for subsystems above.
-
-I look forward to our adventures together!
-
-![lambda](/lambda/images/lambda.jpg)
+![bones](/bones/images/dungeon.jpg)
