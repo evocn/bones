@@ -1,7 +1,7 @@
 html {
     --color-background: #020202;
-    --color-foreground: #786452;
-    --color-accent:     #D6E3F8;
+    --color-foreground: #D6E3F8;
+    --color-accent:     #786452;
     overflow-x: hidden;
 }
 * {
