@@ -1,0 +1,5 @@
+baseURL = 'http://alexhartford.org/lambda'
+languageCode = 'en-us'
+title = "Lambda"
+disableKinds = ['taxonomy', 'term', 'section']
+publishDir = 'docs'
