@@ -26,7 +26,7 @@ When they do, talents allow you to **reroll 1's** from your initial roll.
 ---
 ***Ability*** - Something unique that only your character can do. You pick one when you make your character. In epic-length games (2-3 sessions), a character might learn additional Abilities, too, but usually you just have one.
 
-There's a bunch listed in [Options](options.md), but you can make up your own too.
+There's a bunch listed in [Options](/bones/options/), but you can make up your own too.
 
 ---
 # Combat
